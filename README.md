@@ -43,7 +43,7 @@ It automatically analyzes resumes and predicts the appropriate job category usin
 - AI-driven automation  
 
 ## 📂 Dataset
-The dataset used is `UpdatedResumeDataSet.csv`.  
+The dataset used is "https://www.kaggle.com/datasets/serkanp/resume-screening-dataset".
 (⚠️ Note: Please ensure you have the dataset locally or download it from a trusted source such as Kaggle.)
 
 ## 🚀 How to Run
